@@ -1,5 +1,4 @@
 **AI & Social Media Impact on Student Mental Health**
-
 An interactive Tableau dashboard examining the relationships between social media usage, AI tool adoption, daily screen time, physical activity, sleep patterns, and overall student mental/physical health metrics across different demographics.
 
 **Overview**
